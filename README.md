@@ -13,7 +13,7 @@ In order to get started you will need to download this project as a .zip file an
 1. Click on the Green button that says Code in the upper right-hand side of the screen.
 2. You will see an option at the bottom called Download Zip.
 3. You will need to find the place the .zip file is downloaded to. This will usually be the Downloads folder on your computer. Tip: if you are using Chrome, you should be able to click on the download itself in the bottom left-hand corner of your browse, this will open the location of the downloaded file in My Computer or Finder.
-4. Double-click on the .zip file itself. Once you unzip the file you should see a Folder or Directory with the name "Web-Foundations-Module-3" next to the .zip file.
+4. Double-click on the .zip file itself. Once you unzip the file you should see a Folder or Directory with the name "Web-Foundations-Module-7" next to the .zip file.
 5. Either drag and drop the entire folder onto the VS Code icon, OR open VS Code -> click on File > Open -> Find the folder from step 4 -> Click open.
 6. Open the index.html file in your browser. In most cases you can drag and drop the HTML file directly to your open browser screen.
 
@@ -95,4 +95,4 @@ An impactful technique in learning something new is attempting to reiterate the 
 
 ### Complete the Assignment
 
-Once you are completed with all of the above exercises, find the Folder `Web-Foundations-Module-7` in your Finder or My Computer. Right-click on the folder and select "Compress Web-Foundations-Module-7". This will create a .zip file. Upload this .zip file to Canvas the same way you uploaded your .txt file yesterday.
+Once you are completed with all of the above exercises, find the Folder `Web-Foundations-Module-7` in your Finder or My Computer. Right-click on the folder and select "Compress Web-Foundations-Module-7". This will create a .zip file. Upload this .zip file to Canvas.
