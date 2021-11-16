@@ -459,7 +459,7 @@ function checkIfDone() {
 const button = document.querySelector("button");
 const message = document.querySelector(".message");
 const icon = document.querySelector(".icon");
-const correctArray = [13, "Javascript", true, "Lambda School", false, 42];
+const correctArray = [13, "Javascript", true, "BloomTech", false, 42];
 button.addEventListener("click", () => {
   if (finalArray !== undefined) {
     let numCorrect = 0;

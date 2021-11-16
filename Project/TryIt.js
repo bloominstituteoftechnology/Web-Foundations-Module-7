@@ -2,7 +2,7 @@
 // The array's length will be the length when all of the items are added. Base your calculations on this array length.
 // Place the items in the array at the index described in the comment after the item.
 
-const item1 = "Lambda School"; // 3
+const item1 = "BloomTech"; // 3
 
 const item2 = 42; // length of final array - 1
 
